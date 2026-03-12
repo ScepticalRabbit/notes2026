@@ -1,5 +1,9 @@
 # CAV Graduate Interview Structure
 
+Overall, a strong candidate with a background in materials and experience in engineering simulation tools. The candidates presentation was quite technical and the candidate managed to answe
+
+The candidate also asked insightful technical questions about the role which demonstrated. The candidate lacked some of the "learned experience" demonstrated by the other candidates who had extended placements in the R&D industry. 
+
 Mat Science and Nuclear Eng, Imperial 1st
 
 -  5 mins - Welcome and introductions

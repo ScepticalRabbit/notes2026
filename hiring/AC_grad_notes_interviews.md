@@ -1,6 +1,9 @@
 # CAV Graduate Interview Structure
 
-**Overall**: really liked communication style and how she broke down problems. Definitely was able to read and understand the paper - impressive given unfamiliarity with concepts.
+**Overall**: 
+Overall an extremely strong candidate with a focus on experimental mechanics. The candidates technical presentation was extremely clear and demonstrated a very thorough communication style to technical non-specialists. The candidates analysis of the paper was also impressive given they were not familiar with the concepts and had to research them independently - this also demonstrated a strong aptitude for learning which is highly desirable for the role. The candidates biggest strength was her "experimental intuition" which she demonstrated by discussing her ability to think through how to carefully setup and control material mechanics experiments. This is a key skill which we need in our team. The candidate also demonstrated strong soft skills in communication and organisation backed up by concrete examples from her year in industry placement. The panel also really liked communication style and how she broke down technical problems. The candidate demonstrated an ability to learn new technical skills backed up with examples as well as asking insightful questions about the role.
+
+Definitely was able to read and understand the paper - impressive given unfamiliarity with concepts.
 
 -  5 mins - Welcome and introductions
 - 10 mins - Project presentation + technical questions 4/5

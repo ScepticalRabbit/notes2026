@@ -1,5 +1,12 @@
 # CAV Graduate Interview Structure
 
+Overall, an extremely strong and balanced candidate demonstrating the best aptitude for learning across all the areas we work in. The candidates presentation was technical but the communication style made it easy for us to understand even though it was far from our field - this type of communication style is extremely valuable for the role and will allow the candidate to colloborate excellently. The candidates biggest strength was their adaptibilty as well as their capability to learn new deep technical skills in numerous fields backed up by examples from industry placements and coursework. The candidate demonstrated a strong scientific rigour backed up by numerous examples from coursework and placements. The panel was also particularly impressed by how the candidates research motivation strongly aligned with the group. The candidate also demonstrated strong experimental skills from their recent masters project which was the main weakness identified during the phone screen.  
+
+The panel was
+
+The only slight concern would be the candidates "on ramp" for learning in our field but the panel thinks the candidate more than demonstrated an ability to adapt and be successful in any field of R&D.
+
+
 -  5 mins - Welcome and introductions
 - 10 mins - Project presentation + technical questions
     - Final year project 50% of grade. CMSM = carbon moelcular sieve membranes for gas separations
