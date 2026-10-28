@@ -1,0 +1,2 @@
+1) Results of global test uncertainty from a set configuration of this complex case, using conventional workstation assessments (i.e. no optimisation or HPC functionality), on or before 31/03/27 (Partial Completion)
+2) Results of complex sensor optimisation problem using a high performance computing cluster, available with associated pyvale code on internal Git repository, on or before 31/03/27 (Full Completion)
